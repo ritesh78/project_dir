@@ -1,0 +1,3 @@
+[submodule "samplejavaapp"]
+	path = samplejavaapp
+	url = https://github.com/lerndevops/samplejavaapp
